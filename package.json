@@ -1,5 +1,5 @@
 {
-  "name": "cookie",
+  "name": "simplhire",
   "version": "1.0.0",
   "description": "Landing website with blog using Jekyll and TailwindCSS",
   "homepage": "https://cookie-demo.netlify.app",
@@ -9,7 +9,6 @@
     "@tailwindcss/typography": "^0.3.1",
     "autoprefixer": "^10.0.2",
     "postcss": "^8.1.9",
-
     "postcss-import": "14.0.0",
     "tailwindcss": "^2.0.2"
   },
